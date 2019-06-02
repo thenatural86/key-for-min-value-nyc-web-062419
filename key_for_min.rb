@@ -11,4 +11,5 @@ name_hash.each do |key, value|
     low_key == key 
   end 
 end
-low
+low_key
+end 
